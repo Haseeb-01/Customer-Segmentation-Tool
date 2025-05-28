@@ -127,6 +127,14 @@ For feedback, feature requests or bug reports, open an issue or reach out at "ha
 * Thanks to the open-source community! 🙏
 
 ---
+##  Graphs
+![cluster_boxplots](https://github.com/user-attachments/assets/2b2c89d9-be70-431e-bfc4-730295460f3d)
+![cluster_scatter](https://github.com/user-attachments/assets/dfccfc57-8182-4067-81b0-b36524a6a722)
+![elbow_plot](https://github.com/user-attachments/assets/af3c8019-abc9-4b23-ae93-efe9fbbd1086)
+
+
+
+
 
 ## 🎉 Happy Clustering!
 
